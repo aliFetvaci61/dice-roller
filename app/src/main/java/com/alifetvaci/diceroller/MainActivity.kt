@@ -64,5 +64,6 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
             Text(text = stringResource(R.string.roll), fontSize = 24.sp)
         }
         ///deneme
+        //deneme2
     }
 }
