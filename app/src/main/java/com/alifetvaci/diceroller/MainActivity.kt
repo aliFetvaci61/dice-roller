@@ -66,5 +66,6 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
         ///deneme
         //deneme2
         //deneme3
+        //deneme4
     }
 }
